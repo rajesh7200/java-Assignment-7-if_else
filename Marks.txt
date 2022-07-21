@@ -1,0 +1,12 @@
+class Marks
+{
+	public static void main(String []args)
+	{ 
+		String a="abc";
+		if(a=="abc")
+		{
+		
+		System.out.println(a+" is greater than 5");
+		}
+	}
+}
